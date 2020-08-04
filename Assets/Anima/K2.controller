@@ -142,7 +142,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Kil
-  m_Speed: 0.1
+  m_Speed: 0.44
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -6782974944257478785}
