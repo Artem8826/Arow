@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 111
+  controlID: 74
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 112
+  controlID: 75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 113
+  controlID: 76
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 312}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 140
+  controlID: 19
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -474,7 +474,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: a2540000
       m_LastClickedID: 0
       m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
@@ -536,9 +536,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 18.391235, y: -2.8408632, z: 6.3567905}
+    m_Target: {x: -16.044079, y: -1.8265514, z: 2.273018}
     speed: 2
-    m_Value: {x: 18.391235, y: -2.8408632, z: 6.3567905}
+    m_Value: {x: -16.044079, y: -1.8265514, z: 2.273018}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -584,9 +584,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.06334245, y: -0.2068689, z: 0.013529587, w: -0.9763631}
+    m_Target: {x: -0.047145713, y: 0.32341075, z: -0.01602257, w: -0.94509333}
     speed: 2
-    m_Value: {x: -0.061908737, y: -0.20393065, z: 0.013031622, w: -0.976939}
+    m_Value: {x: -0.0471632, y: 0.32194844, z: -0.015949639, w: -0.9454472}
   m_Size:
     m_Target: 34.02564
     speed: 2
@@ -680,19 +680,19 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Anima
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Anima
+  - Assets
   m_LastFoldersGridSize: 64
   m_LastProjectPath: D:\Arow
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 94540000
-    m_LastClickedID: 21652
+    m_SelectedIDs: 5e540000
+    m_LastClickedID: 21598
     m_ExpandedIDs: 000000005e54000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -748,7 +748,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000d04c0000c4600000f46000004061000022660000044b0000a64b000026590000e648000072470000ba670000325c00009e450000245700003a540000a2450000d6430000d4520000c071000068450000ba41000018690000d83b00001e410000ce680000f4650000505a0000468301001e780000c862010016500000564500006669000034590000f0360200724a0000784100002e390000e036000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
